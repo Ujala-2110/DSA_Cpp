@@ -1,0 +1,8 @@
+{
+    "files.associations": {
+        "STACK.C": "cpp",
+        "random": "cpp",
+        "iostream": "cpp"
+    },
+    "git.ignoreLimitWarning": true
+}
